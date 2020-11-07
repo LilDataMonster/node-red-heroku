@@ -7,6 +7,10 @@
         "nano": "~5.11.0",
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
-        "node-red": "~1.x"
+        "node-red": "~1.x",
+        "node-red-contrib-influxdb": "^0.4.0",
+        "node-red-contrib-ui-media": "^1.2.0",
+        "node-red-dashboard": "^2.22.1",
+        "node-red-node-base64": "^0.2.1"
     }
 }
