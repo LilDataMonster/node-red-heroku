@@ -10,6 +10,7 @@
         "node-red-contrib-ui-media": "^1.2.0",
         "node-red-dashboard": "^2.22.1",
         "node-red-node-base64": "^0.2.1",
+        "node-red-node-serialport": "^0.14.0",
         "pg": "^8.3.0",
         "redis": "~0.10.1",
         "when": "~3.x"
